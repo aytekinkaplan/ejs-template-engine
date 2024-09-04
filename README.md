@@ -67,7 +67,7 @@ project-root/
 │   ├── contact.ejs
 │   ├── posts.ejs
 │   ├── authors.ejs
-│   └── error.ejs
+│
 │
 ├── routes.js
 ├── index.js
